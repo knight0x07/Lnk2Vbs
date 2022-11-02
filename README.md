@@ -1,6 +1,6 @@
 # Lnk2Vbs
 
-A Python script that embeds VBS into LNK and when executed runs the VBS script from within.
+A Python script that embeds Target VBS into LNK and when executed runs the VBS script from within.
 
 # Screenshots
 
@@ -9,7 +9,7 @@ Execution of Script:
 ![Screenshot_2](https://user-images.githubusercontent.com/60843949/199551813-95de2898-e762-455f-9f4d-cd3a78ef0037.png)
 
 Here we provide all the required arguments to the .LNK File. 
-Along with this we also provide the name of the VBS script (should be present in the same directory as the script) to be embedded inside the LNK file.
+Along with this we also provide the name of the Target VBS script (should be present in the same directory as the script) to be embedded inside the LNK file.
 
 Once the execution of the script is completed, it generates the LNK File in the same directory with the embedded VBS script as shown below
 
