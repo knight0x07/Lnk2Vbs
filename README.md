@@ -1,6 +1,6 @@
 # Lnk2Vbs
 
-Python script that embeds VBS into LNK and when executed runs the VBS script from within.
+A Python script that embeds VBS into LNK and when executed runs the VBS script from within.
 
 #Screenshots
 
