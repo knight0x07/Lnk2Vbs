@@ -18,3 +18,7 @@ Once the execution of the script is completed, it generates the LNK File in the 
 And then when we execute the final LNK file which in turn runs the embedded VBS Script (embed.vbs) from within -> which further spawns the favourite "calc.exe" :
 
 ![Captur2](https://user-images.githubusercontent.com/60843949/199555104-e0fc4cb3-c5f2-4ed4-88ba-12845833f07f.PNG)
+
+# Note
+
+For educational purposes only.
