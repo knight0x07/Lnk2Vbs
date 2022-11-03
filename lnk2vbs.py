@@ -19,7 +19,6 @@ lnk_filename = input("\n  [+] LNK Name: ") + ".lnk"
 lnk_filepath = os.getcwd() + "\\" + lnk_filename
 lnk_description = input("  [+] LNK Description: ")
 lnk_icon = input("  [+] LNK Icon Location: ")
-final_icon = '"' + lnk_icon + '"'
 lnk_id_no = random.randint(5, 15)
 lnk_identifier = ":" * lnk_id_no
 vbs_name = input("  [+] Target VBS: ")
